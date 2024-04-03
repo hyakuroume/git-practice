@@ -1,3 +1,3 @@
 # git-practice
 git練習用
-stash コンフリクト用
+stash 練習用
