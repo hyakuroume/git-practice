@@ -1,3 +1,4 @@
 # git-practice
 git練習用
-mainで更新
+rebase-practiceで更新
+conflict(rebase)
