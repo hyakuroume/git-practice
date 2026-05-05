@@ -1,5 +1,3 @@
 # git-practice
 git練習用
-stash 練習用
-second stash
-tag練習
+rebase-practiceで更新
